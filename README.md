@@ -26,14 +26,14 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML e CSS
-- JavaScript
+- HTML e CSS, utilizadas tanto para estruturação quanto para definição dos temas claro e escuro
+- JavaScript, primeira experiência com a função toogle, para alternar os temas do site atráves de botão na página
 - Git e Github
-- Figma
+- Figma, para referências de projeto
 
 ## 💻 Projeto
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
+O Linktree é um agregador de links para usar como cartão de visitas online.
 
 - [Acesse o projeto original finalizado, online](https://maykbrito.github.io/devlinks)
 
